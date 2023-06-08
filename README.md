@@ -11,3 +11,6 @@ Main bootloader file for a new setup. This requires a special ISP programmer and
 ### SIMMProgrammerFirmware1.4.bin
 Latest firmware for the programmer. This can be uploaded to the programmer by using the SIMM Programmer software under the Advance option. Your average user can apply this to the programmer direclty over the USB cable. Original link to Doug Brown release is here https://github.com/dougg3/mac-rom-simm-programmer/releases
 
+### Windows Version
+Please download the windows version from this link:
+http://www.bigmessowires.com/romdrv/rom-simm-programmer-utility-20170113.zip
