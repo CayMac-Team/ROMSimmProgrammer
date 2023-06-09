@@ -1,9 +1,6 @@
 # ROMSimmProgrammer
 
-Here you will find the software that is required to use the programmer. This includes the bootloader, firmware and the software to run on Windows or MacOS.
-
-### SIMMProgrammer.dmg
-Current MacOS v1.1.1 (2023)
+Here you will find links to the software that is required to use the programmer. This includes the bootloader, firmware and the software to run on Windows or MacOS. The links take you directly to the Doug Brown releases that you can download.
 
 ### SIMMProgrammerBootloader1.0.4-128x.hex
 Main bootloader file for a new setup. This requires a special ISP programmer and should not be done by your average user. This version of the bootloader is specific to the AT90USB128x MCU Chip. This will NOT work on the AT90USN64x MCU. Original link to Doug Brown release is here 
