@@ -14,6 +14,6 @@ Latest firmware for the programmer. This can be uploaded to the programmer by us
 https://github.com/dougg3/mac-rom-simm-programmer/releases
 
 ### SIMMProgrammerBootloader1.0.4 - Latest
-Main bootloader file for a new setup. This requires a special ISP programmer and should not be done by your average user. There are 2 versions of the bootloader depending on what MCU you are using. Ensure you download the file for the correct chip. The chips are the AT90USB64x family and the AT90USB128x family. 
+Main bootloader file for a new setup. This requires a special ISP programmer and should not be done by your average user. There are 2 versions of the bootloader depending on what MCU you are using. Ensure you download the file for the correct chip. The chips are the AT90USB64x family and the AT90USB128x family.
 
 https://github.com/dougg3/mac-rom-simm-programmer.bootloader/releases
