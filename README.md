@@ -2,9 +2,10 @@
 
 Here you will find links to the software that is required to use the programmer. This includes the bootloader, firmware and the software to run on Windows or MacOS.
 
-All Links point to the original creater and repository by Doug Brown. This makes it easier to keep the files in one location instead of having downloading options from here.
+All Links point to the original creater repositories by Doug Brown.
 
-### SIMMProgrammer - MacOS & Windows - Latest
+### SIMMProgrammer - MacOS & Windows - Latest (v1.1.2)
+This is the main software you run on your Windows or Mac to communicate with the programmer. Also used to update the firmware.
 https://github.com/dougg3/mac-rom-simm-programmer.software/releases/tag/v1.1.2
 
 ### SIMMProgrammerFirmware1.4 - Latest
