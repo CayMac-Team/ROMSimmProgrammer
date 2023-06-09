@@ -14,8 +14,5 @@ Latest firmware for the programmer. This can be uploaded to the programmer by us
 
 https://github.com/dougg3/mac-rom-simm-programmer/releases
 
-### SIMMProgrammer - Windows - Latest
-Link to come
-
-### SIMMProgrammer - MacOS - Latest
-Link to come
+### SIMMProgrammer - MacOS & Windows - Latest
+https://github.com/dougg3/mac-rom-simm-programmer.software/releases/tag/v1.1.2
