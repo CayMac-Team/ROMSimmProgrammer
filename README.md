@@ -17,3 +17,6 @@ https://github.com/dougg3/mac-rom-simm-programmer/releases
 Main bootloader file for a new setup. This requires a special ISP programmer and should not be done by your average user. There are 2 versions of the bootloader depending on what MCU you are using. Ensure you download the file for the correct chip. The chips are the AT90USB64x family and the AT90USB128x family.
 
 https://github.com/dougg3/mac-rom-simm-programmer.bootloader/releases
+
+### Case
+3D printed case is available to download and self print in the cases directory. You will need to print the bottom, switch and the top pieces. If you wish to remove the 6 pin header used to program the bootloader or shorten the pins, you can do so and print the normal top without the cutout. Leaving the pin header, you will need to print the version with the cutout.
