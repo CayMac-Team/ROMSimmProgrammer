@@ -4,6 +4,11 @@ Here you will find links to the software that is required to use the programmer.
 
 All Links point to the original creater repositories by Doug Brown.
 
+### Instruction Manual
+Mac84 (Steve) took his time and created this amazing manual for the ROM Simm programmer. Your work os greatly appreciated. 
+
+Please see the PDF manual listed above.
+
 ### SIMMProgrammer - MacOS & Windows - Latest
 This is the main software you run on your Windows or Mac to communicate with the programmer. Also used to update the firmware.
 https://github.com/dougg3/mac-rom-simm-programmer.software/releases
